@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
+#r'y
 #	psd2html - Converts a .psd file (or other layered image) to an .html template.
 #	Copyright © 2010 Seán Hayes
 
