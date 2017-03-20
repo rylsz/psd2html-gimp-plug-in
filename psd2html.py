@@ -3,7 +3,7 @@
 
 #	psd2html - Converts a .psd file (or other layered image) to an .html template.
 #	Copyright © 2010 Seán Hayes
-
+#修改被rylsz，于2017年3月20日
 #	This program is free software: you can redistribute it and/or modify
 #	it under the terms of the GNU General Public License as published by
 #	the Free Software Foundation, either version 3 of the License, or
